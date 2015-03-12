@@ -1,3 +1,4 @@
 1. While there is hope, there is life.
 2. Your life changes today.
 3. Learn how to ignore files (DONE)
+4. Learn about branches (DONE)
